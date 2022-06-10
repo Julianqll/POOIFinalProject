@@ -1,0 +1,3 @@
+/Users/julianquispe/Desktop/POOIFinalProject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/julianquispe/Desktop/POOIFinalProject/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/julianquispe/Desktop/POOIFinalProject/cmake-build-debug/CMakeFiles/POOIFinalProject.dir
